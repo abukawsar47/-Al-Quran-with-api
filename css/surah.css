@@ -1,0 +1,11 @@
+
+#surah {
+	text-align: justify;
+}
+.ayah {
+	direction: rtl;
+	font-size: 20px;
+}
+.ayah-translations{
+	direction: rtl;
+}
